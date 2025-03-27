@@ -25,4 +25,4 @@ This is a **beginner-level static website** designed for a sanitary store. It sh
 ## 🔧 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/YourGitHubUsername/sanitary-store-static-website.git
+   git clone https://github.com/JanzaidKhattak/sanitary-store-static-website
