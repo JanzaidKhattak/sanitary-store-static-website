@@ -1,0 +1,100 @@
+body{
+    background-color: gray;
+}
+.main-div{
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+#navbar{
+    width: 1000px;
+    margin: 0 auto;
+    height: 90px;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: white;
+  }
+  form.example input:hover{
+      background-color: white;
+      border: 1px solid dodgerblue;
+  }
+  
+  form.example button {
+    float: right;
+    width: 20%;
+    padding: 8px;
+    background: white;
+    color: grey;
+    font-size: 17px;
+    border: 1px solid green;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background-color: #11dd5f;
+    border: 1px solid dodgerblue;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  ::placeholder { /* Firefox, Chrome, Opera */
+    color: green;
+}
+.dropdown-menu{
+    border: none;
+}
+.dropdown-item:hover{
+    border: 1px solid green;
+    border-radius: 5%;
+}
+.certificate{
+    padding-top: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.card-body{
+    padding-top: 60px;
+}
+.card{
+    border: none;
+
+}
+.col-md-6{
+    padding-top: 40px;
+}
+.ceo-footer{
+    background-color: #334756;
+    padding-top: 50px;
+}
+
+.col img{
+    padding-top: 30px;
+    margin-left: 40px;
+   
+ 
+}
+.gps{
+    color: rgb(228, 218, 218);
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.ceo-copyright{
+    line-height: 3px;
+    padding-left: 100px;
+    color: rgb(228, 218, 218);
+}
+.copyright{
+    background-color: #D5EEBB;
+    padding-left: 20px;
+}
